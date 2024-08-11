@@ -60,13 +60,13 @@ This notebook demonstrates how to reshape tensors in PyTorch, including:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/pytorch-tensor-operations.git
+   git clone https://github.com/matin-ghorbani/PyTorch-Tensors-Operations.git
    ```
 
 2. Navigate to the repository directory:
 
     ```bash
-    cd pytorch-tensor-operations
+    cd PyTorch-Tensors-Operations
     ```
 
 3. Install Dependencies
